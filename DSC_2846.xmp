@@ -51,7 +51,7 @@
    xmp:ModifyDate="2017-10-29T14:45:36.50"
    xmp:CreateDate="2017-10-29T14:45:36.50"
    xmp:Label="Green"
-   xmp:MetadataDate="2017-11-01T23:45:16-07:00"
+   xmp:MetadataDate="2017-11-02T23:18:28-07:00"
    aux:SerialNumber="2116672"
    aux:LensInfo="240/10 700/10 28/10 28/10"
    aux:Lens="24.0-70.0 mm f/2.8"
@@ -63,13 +63,13 @@
    photoshop:EmbeddedXMPDigest="A3A6AAC3C8FB340C7C09F1A12F19CF8B"
    xmpMM:DocumentID="2AFA42C90FF06631D40FB2885C0BDD9B"
    xmpMM:OriginalDocumentID="2AFA42C90FF06631D40FB2885C0BDD9B"
-   xmpMM:InstanceID="xmp.iid:b7ea52d9-0ae5-487c-816b-ee415f6f8b59"
+   xmpMM:InstanceID="xmp.iid:74756e7a-76a2-4f14-b5a3-1cfe49a57d9e"
    dc:format="image/x-nikon-nef"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
    crs:WhiteBalance="Custom"
    crs:AutoWhiteVersion="134348800"
-   crs:Temperature="5300"
+   crs:Temperature="5710"
    crs:Tint="+3"
    crs:Saturation="0"
    crs:Sharpness="25"
@@ -181,6 +181,12 @@
       stEvt:action="saved"
       stEvt:instanceID="xmp.iid:b7ea52d9-0ae5-487c-816b-ee415f6f8b59"
       stEvt:when="2017-11-01T23:45:16-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:74756e7a-76a2-4f14-b5a3-1cfe49a57d9e"
+      stEvt:when="2017-11-02T23:18:28-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>

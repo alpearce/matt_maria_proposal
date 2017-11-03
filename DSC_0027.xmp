@@ -14,7 +14,7 @@
    xmp:CreateDate="2017-10-29T14:53:57.90"
    xmp:ModifyDate="2017-10-29T14:53:57.90"
    xmp:Label="Green"
-   xmp:MetadataDate="2017-11-01T23:49:41-07:00"
+   xmp:MetadataDate="2017-11-02T23:18:28-07:00"
    tiff:Make="NIKON CORPORATION"
    tiff:Model="NIKON D5500"
    tiff:Orientation="1"
@@ -64,12 +64,12 @@
    photoshop:EmbeddedXMPDigest="89A7B607A369752277F753527A5BBEAA"
    xmpMM:DocumentID="9D257928A7EFF4653FC92C641669A3C4"
    xmpMM:OriginalDocumentID="9D257928A7EFF4653FC92C641669A3C4"
-   xmpMM:InstanceID="xmp.iid:ba1fcc99-16c6-48d9-a560-8fe111eb4d37"
+   xmpMM:InstanceID="xmp.iid:c059dbe8-196b-46c4-ba89-3ef0a488749b"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
-   crs:WhiteBalance="As Shot"
+   crs:WhiteBalance="Custom"
    crs:AutoWhiteVersion="134348800"
-   crs:Temperature="5950"
+   crs:Temperature="5710"
    crs:Tint="+7"
    crs:Saturation="+8"
    crs:Sharpness="25"
@@ -192,6 +192,12 @@
       stEvt:action="saved"
       stEvt:instanceID="xmp.iid:ba1fcc99-16c6-48d9-a560-8fe111eb4d37"
       stEvt:when="2017-11-01T23:49:41-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:c059dbe8-196b-46c4-ba89-3ef0a488749b"
+      stEvt:when="2017-11-02T23:18:28-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>

@@ -1,4 +1,4 @@
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55        ">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37        ">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
@@ -51,7 +51,7 @@
    xmp:ModifyDate="2017-11-01T21:31:32.803-07:00"
    xmp:CreateDate="2017-10-29T13:48:10.70"
    xmp:Label="Blue"
-   xmp:MetadataDate="2017-11-01T21:31:42-07:00"
+   xmp:MetadataDate="2017-11-02T23:18:27-07:00"
    aux:SerialNumber="2116672"
    aux:LensInfo="240/10 700/10 28/10 28/10"
    aux:Lens="24.0-70.0 mm f/2.8"
@@ -63,12 +63,13 @@
    photoshop:EmbeddedXMPDigest="A3A6AAC3C8FB340C7C09F1A12F19CF8B"
    xmpMM:DocumentID="0CD81BFFB2911803D2F0D2949B6C9A14"
    xmpMM:OriginalDocumentID="0CD81BFFB2911803D2F0D2949B6C9A14"
-   xmpMM:InstanceID="xmp.iid:cc1df65e-81e5-8540-bbb4-7b1c086f10ea"
+   xmpMM:InstanceID="xmp.iid:dce108a8-2889-466a-a3df-40d911beab04"
    dc:format="image/x-nikon-nef"
-   crs:Version="10.0"
-   crs:ProcessVersion="10.0"
+   crs:Version="9.0"
+   crs:ProcessVersion="6.7"
    crs:WhiteBalance="Custom"
-   crs:Temperature="5810"
+   crs:AutoWhiteVersion="134348800"
+   crs:Temperature="5710"
    crs:Tint="+9"
    crs:Saturation="0"
    crs:Sharpness="25"
@@ -134,8 +135,6 @@
    crs:PerspectiveScale="100"
    crs:PerspectiveAspect="0"
    crs:PerspectiveUpright="0"
-   crs:PerspectiveX="0.00"
-   crs:PerspectiveY="0.00"
    crs:AutoLateralCA="0"
    crs:Exposure2012="+0.36"
    crs:Contrast2012="+7"
@@ -150,21 +149,11 @@
    crs:DefringeGreenAmount="0"
    crs:DefringeGreenHueLo="40"
    crs:DefringeGreenHueHi="60"
-   crs:Dehaze="0"
    crs:ConvertToGrayscale="False"
    crs:ToneCurveName="Medium Contrast"
    crs:ToneCurveName2012="Medium Contrast"
    crs:CameraProfile="Camera Portrait"
    crs:LensProfileSetup="LensDefaults"
-   crs:UprightVersion="151388160"
-   crs:UprightCenterMode="0"
-   crs:UprightCenterNormX="0.5"
-   crs:UprightCenterNormY="0.5"
-   crs:UprightFocalMode="0"
-   crs:UprightFocalLength35mm="35"
-   crs:UprightPreview="False"
-   crs:UprightTransformCount="6"
-   crs:UprightFourSegmentsCount="0"
    crs:HasSettings="True"
    crs:CropTop="0.129225"
    crs:CropLeft="0.107343"
@@ -174,7 +163,7 @@
    crs:CropConstrainToWarp="0"
    crs:HasCrop="True"
    crs:AlreadyApplied="False"
-   crs:RawFileName="DSC_2827.nef">
+   crs:RawFileName="DSC_2827.NEF">
    <exif:ISOSpeedRatings>
     <rdf:Seq>
      <rdf:li>100</rdf:li>
@@ -193,6 +182,12 @@
       stEvt:instanceID="xmp.iid:cc1df65e-81e5-8540-bbb4-7b1c086f10ea"
       stEvt:when="2017-11-01T21:31:42-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.0 (Windows)"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:dce108a8-2889-466a-a3df-40d911beab04"
+      stEvt:when="2017-11-02T23:18:27-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>
    </xmpMM:History>

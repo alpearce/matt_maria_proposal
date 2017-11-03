@@ -14,7 +14,7 @@
    xmp:CreateDate="2017-10-29T15:56:12.43"
    xmp:ModifyDate="2017-10-29T15:56:12.43"
    xmp:Label="Green"
-   xmp:MetadataDate="2017-11-01T23:49:41-07:00"
+   xmp:MetadataDate="2017-11-02T23:18:28-07:00"
    tiff:Make="NIKON CORPORATION"
    tiff:Model="NIKON D5500"
    tiff:Orientation="1"
@@ -64,12 +64,12 @@
    photoshop:EmbeddedXMPDigest="2437A184572A3EE2DD5CFC35EC5B9DAB"
    xmpMM:DocumentID="618F4BC38FECA2E71F4E88AD31768A7B"
    xmpMM:OriginalDocumentID="618F4BC38FECA2E71F4E88AD31768A7B"
-   xmpMM:InstanceID="xmp.iid:5ec42395-05bd-4d90-9f12-5eea91406b2c"
+   xmpMM:InstanceID="xmp.iid:7f8a5910-5f21-4758-854e-7c0267473a2a"
    crs:Version="9.0"
    crs:ProcessVersion="6.7"
-   crs:WhiteBalance="As Shot"
+   crs:WhiteBalance="Custom"
    crs:AutoWhiteVersion="134348800"
-   crs:Temperature="5850"
+   crs:Temperature="5710"
    crs:Tint="-3"
    crs:Saturation="+9"
    crs:Sharpness="25"
@@ -156,6 +156,13 @@
    crs:CameraProfileDigest="10B3F865E3F34A7C34DDCF3907AA1691"
    crs:LensProfileSetup="LensDefaults"
    crs:HasSettings="True"
+   crs:CropTop="0.073103"
+   crs:CropLeft="0"
+   crs:CropBottom="1"
+   crs:CropRight="0.926897"
+   crs:CropAngle="0"
+   crs:CropConstrainToWarp="0"
+   crs:HasCrop="True"
    crs:AlreadyApplied="False"
    crs:RawFileName="DSC_0063.NEF">
    <exif:ISOSpeedRatings>
@@ -185,6 +192,12 @@
       stEvt:action="saved"
       stEvt:instanceID="xmp.iid:5ec42395-05bd-4d90-9f12-5eea91406b2c"
       stEvt:when="2017-11-01T23:49:41-07:00"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:7f8a5910-5f21-4758-854e-7c0267473a2a"
+      stEvt:when="2017-11-02T23:18:28-07:00"
       stEvt:softwareAgent="Adobe Photoshop Lightroom 6.0 (Macintosh)"
       stEvt:changed="/metadata"/>
     </rdf:Seq>

@@ -3,3 +3,4 @@
 *.JPEG
 *.NEF
 *.DS_STORE
+.sync/
